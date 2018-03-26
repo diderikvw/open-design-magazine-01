@@ -1,4 +1,6 @@
-# **10 MANUFACTURING COMPANIES **are ready to experiment with open source
+# Example: **10 MANUFACTURING COMPANIES **are ready to experiment with open source
+
+\[THIS IS AN EXAMPLE TO TEST THE FUNCTIONALITY OF GITBOOK AND GITHUB, THIS ARTICLE IS NOT MEANT TO BE INCLUDED IN OPEN DESIGN MAGAZINE\]
 
 This week, we kicked off our REMODEL programme with 10 Danish manufacturing companies. During the next 8 weeks, the companies will explore new business models based on open source principles, knowledge sharing and co-creation.
 

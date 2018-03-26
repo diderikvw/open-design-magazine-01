@@ -1,4 +1,6 @@
-# WikiHouse Contributors develop Wren in Almere, Holland {#27eb}
+# Example: WikiHouse Contributors develop Wren in Almere, Holland {#27eb}
+
+\[THIS IS AN EXAMPLE TO TEST THE FUNCTIONALITY OF GITBOOK AND GITHUB, THIS ARTICLE IS NOT MEANT TO BE INCLUDED IN OPEN DESIGN MAGAZINE\]
 
 ![](/assets/wikihouse-01.jpg)
 
