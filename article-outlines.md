@@ -18,11 +18,9 @@ See attached
 
 ### Logo
 
-see attached logos open + logo of bath university http://www.bath.ac.uk/marketing/images/logos/png/uob-logo-grey-transparent.png \(i have to check if I have the right to use this one\)
+see attached logos open + logo of bath university [http://www.bath.ac.uk/marketing/images/logos/png/uob-logo-grey-transparent.png](http://www.bath.ac.uk/marketing/images/logos/png/uob-logo-grey-transparent.png) \(i have to check if I have the right to use this one\)
 
 ### Picture
 
 see diagram open-o-meter
-
-
 
