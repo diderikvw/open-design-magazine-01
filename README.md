@@ -4,5 +4,7 @@ This repository contains the contents of the first edition of Open Design Magazi
 
 For specifics and information on how to contribute, visit the [Wiki of this repository in GitHub](https://github.com/diderikvw/open-design-magazine-01/wiki). 
 
+Also see [the website](https://diderikvw.github.io/open-design-magazine-website/) containing information on the magazine creation process.
+
 Note: GitBook uses the README.me a the book's preface, so this text also appears there.
 
