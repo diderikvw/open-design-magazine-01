@@ -28,3 +28,10 @@ see diagram open-o-meter
 
 What does it look like when a group of Danish manufacturing companies, backed by the Danish government, starts to open source physical products in order to grow their business? Companies ranging from startups like outdoor furniture manufacturer Out-sider or urban gardening systems company TagTomat to medium sized companies like 100-year old industrial drill bit manufacturer Thürmer Tools – all the way up to the world’s largest water pump manufacturer, Grundfos and global enzyme and biochemical product mastodon Novozymes. Through a design-driven business development programme, REMODEL, these companies and several others have been using design methods to build new open source-based business strategies and business models during the spring of 2018 and the facilitator, Danish Design Centre, hereby share what came out of this effort.
 
+## Jose Carlos Urra - Open Source sustainable development
+
+### Outline
+
+Open Source is a term widely used, that stands for more than one meaning. (1) Is a development collaborative model originated from software development practices, (2) It stands for a set of licenses that allow users to access the know-how behind software and hardware (source-code,files, models and documentation) and gives essential freedoms, including the freedom to use, study, improve the code, and distribute it; and (3) is an economic phenomenon, an industry if you like, that has disrupted traditional production workflows. The result and combination has been the explosion of what is today known as the collaborative commons. It is a new industrial revolution also known as the p2p phenomenon. In this article we examine the potential this phenomenon has towards sustainable development, what contradictions, challenges, and opportunities unfold from it and ideas to use it for the common good.
+
+### Jose Carlos Urra Llanusa
