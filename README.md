@@ -8,3 +8,4 @@ Also see [the website](https://diderikvw.github.io/open-design-magazine-website/
 
 Note: GitBook uses the README.me a the book's preface, so this text also appears there.
 
+Access the GitBook representation of this repository [here](https://legacy.gitbook.com/book/diderikvw/open-design-magazine-edition-01). 
