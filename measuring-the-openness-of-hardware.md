@@ -27,5 +27,3 @@ see diagram open-o-meter
 3. 
 
 
-
-
