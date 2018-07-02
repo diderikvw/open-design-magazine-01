@@ -20,10 +20,21 @@ see attached logos open + logo of bath university [http://www.bath.ac.uk/marketi
 
 see diagram open-o-meter
 
-## Interview questions
+## Interview
 
-1. What makes you tick? Tell me a little bit about yourself, your values and your passion. 
-2. Why did you choose to work for this company / start this initiative / work on this project? What makes you feel it is important to spend a part of your life on it?
-3. 
+### What would you like to know more about?
+
+Diderik would like to know more about:
+
+1. Jérémy's personal motivation and passion for Open Source Design, his reasons for spending part of his life on this initiative, his values and personal journey that led him here.
+2. What OPEN! is about, in a brief summary of a few sentences 
+3. What has been done far and what is to come in OPEN!
+4. The top 3 key insights resulting from OPEN!, for acedemia, but also for practitioners of Open Source Design \(if any\).
+5. What "open source hardware" means from the OPEN! perspective and why the Open-o-meter was contructed and applied.
+6. Key insights from applying the Open-o-meter, both qualitative and quantitative; both academic and practical \(if any\).
+7. If there is any further application of the Open-o-meter and if any: in academia, or outside, or both, and what the value/ambition could be.
+
+
+
 
 
